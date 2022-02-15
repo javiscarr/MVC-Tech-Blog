@@ -28,8 +28,8 @@ header a:hover {
 
 .home-title {
   font-size: 3rem;
-  color: rgb(135, 37, 165);
-  background-color: rgb(16, 170, 137);
+  color: rgb(96, 178, 199);
+  background-color: rgb(105, 109, 108);
   padding: 10px;
   display: inline-block;
   border-radius: 5px;
@@ -93,7 +93,7 @@ form label {
 }
 
 header {
-  background-color: lightslategray;
+  background-color: rgb(35, 172, 172);
   border-bottom: 1px solid #ccc;
   display: flex;
   justify-content: space-between;
@@ -139,7 +139,7 @@ main {
 }
 
 .post {
-  background-color: rgb(18, 182, 146);
+  background-color: #116b67;
   margin-bottom: 2%;
   line-height: 150%;
   border-color: black;
